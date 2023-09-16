@@ -594,6 +594,9 @@ footer .newsletter form .subscribe {
   .about .main-image {
     width: 310px;
   }
+  .about .text {
+    height: 330px;
+  }
   .review .cards {
     grid-template-columns: repeat(auto-fill, 300px);
     justify-content: center;
@@ -673,7 +676,8 @@ footer .newsletter form .subscribe {
     width: 280px;
   }
   .about .text {
-    width: 310px;
+    width: 320px;
+    height: 300px;
   }
 }
 
